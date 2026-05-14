@@ -1,1 +1,1 @@
-# IHK-Abschlusspr-fungen-AP2-FiSi-AO2020
+# IHK-Abschlusspruefungen-AP2-FiSi-AO2020
