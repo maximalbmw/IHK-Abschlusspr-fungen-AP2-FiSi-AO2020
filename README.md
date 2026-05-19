@@ -18,3 +18,13 @@ Nach der Ausbildung arbeiten Fachinformatiker für Systemintegration typischerwe
 
 ## Beruf des Fachinformatikers für Systemintegration
 Fachinformatiker für Systemintegration planen, installieren und betreiben IT-Infrastrukturen. Sie vernetzen Hard- und Softwarekomponenten, administrieren Server und Netzwerke und sorgen dafür, dass IT-Systeme zuverlässig und sicher laufen. Bei Störungen analysieren sie die Ursache und beheben das Problem.
+
+## Prüfungen
+Die Abschlussprüfung zum Fachinformatiker für Systemintegration ist in zwei Teile gegliedert. Teil 1 findet nach etwa 18 Monaten statt und prüft grundlegende Kenntnisse zum Einrichten eines IT-gestützten Arbeitsplatzes. Er zählt mit 20 Prozent in die Gesamtnote.
+
+Teil 2 erfolgt am Ende der Ausbildung und besteht aus drei Bereichen. Das Kernstück ist eine betriebliche Projektarbeit, bei der ein reales IT-Projekt im Umfang von 40 Stunden eigenständig durchgeführt, dokumentiert und vor dem Prüfungsausschuss präsentiert wird. Dieser Teil macht 50 Prozent der Gesamtnote aus. Ergänzend werden zwei schriftliche Prüfungen abgelegt, die zusammen 30 Prozent ausmachen und Themen wie Systemintegration, Wirtschafts- und Sozialkunde sowie fachübergreifende Inhalte abdecken.
+
+Beide Teile zusammen ergeben die IHK-Abschlussnote, mit der die Ausbildung offiziell abgeschlossen wird.
+
+## Notenrechner
+Link: https://ausbildung-in-der-it.de/notenrechner
