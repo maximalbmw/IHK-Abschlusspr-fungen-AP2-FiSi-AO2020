@@ -1,10 +1,10 @@
 # IHK-Abschlussprüfungen-AP2-FiSi-AO2020
 
 ## weitere Prüfungen folgen
-Es folgen in der nächsten Zeit alle weiteren FiSi Prüfungen der AP2 (Schriftlich) der Ausbildungsordnung 2020 (AO 2020) folgen in kuerze!
+Es folgen in der nächsten Zeit alle weiteren FiSi Prüfungen der AP2 (Schriftlich) der Ausbildungsordnung 2020 (AO 2020) folgen in kürze!
 
 ## AP1
-Es folgt ebenfalls ein Repo fuer die AP1, der Ausbildungsverordnung 2020!
+Es folgt ebenfalls ein Repo für die AP1, der Ausbildungsverordnung 2020!
 Link zum Repo: 
 
 ## Ausbildung zum Fachinformatiker für Systemintegration
