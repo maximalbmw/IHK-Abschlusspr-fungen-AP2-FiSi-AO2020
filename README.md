@@ -5,7 +5,7 @@ Es folgen in der nächsten Zeit alle weiteren FiSi Prüfungen der AP2 (Schriftli
 
 ## AP1
 Es folgt ebenfalls ein Repo für die AP1, der Ausbildungsverordnung 2020!
-Link zum Repo: 
+**Link zum Repo:** https://github.com/maximalbmw/IHK-Abschlusspruefungen-AP1-AO2020
 
 ## Ausbildung zum Fachinformatiker für Systemintegration
 Die Ausbildung zum Fachinformatiker für Systemintegration ist eine duale Berufsausbildung mit einer Regelausbildungsdauer von drei Jahren. Sie findet parallel im Ausbildungsbetrieb und in der Berufsschule statt.
@@ -27,4 +27,4 @@ Teil 2 erfolgt am Ende der Ausbildung und besteht aus drei Bereichen. Das Kernst
 Beide Teile zusammen ergeben die IHK-Abschlussnote, mit der die Ausbildung offiziell abgeschlossen wird.
 
 ## Notenrechner
-Link: https://ausbildung-in-der-it.de/notenrechner
+**Link:** https://ausbildung-in-der-it.de/notenrechner
